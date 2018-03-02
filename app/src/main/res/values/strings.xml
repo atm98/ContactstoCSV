@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactstoCSV</string>
+    <string name="export_contacts">Export Contacts</string>
+</resources>
